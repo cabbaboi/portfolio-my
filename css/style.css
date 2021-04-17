@@ -462,7 +462,7 @@ header{
     color: #ff7f50;
   }
   .project-title {
-    font-size: 1.5rem;
+    font-size: 1rem;
     font-family: 'Poppins', sans-serif;
     padding: 1rem 0rem;
     color: var(--main-white);
